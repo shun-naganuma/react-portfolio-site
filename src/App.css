@@ -68,7 +68,7 @@ h3 {
 
 .social-icons li a {
   display: inline-block;
-  color: #30BFBA;
+  color: #30bfba;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -125,7 +125,7 @@ h3 {
 }
 
 .contact {
-  background: #30BFBA;
+  background: #30bfba;
 }
 
 .contact-contents {
@@ -149,6 +149,9 @@ h3 {
 #contact .btn {
   height: 54px;
   background: #fff;
-  color: #30BFBA;
+  color: #30bfba;
 }
 
+.skill-item {
+  margin: 0 48px;
+}
